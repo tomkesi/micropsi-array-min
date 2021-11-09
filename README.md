@@ -1,6 +1,6 @@
 #GetMin
 ## Installation 
-pip install 
+pip install git+https://github.com/tomkesi/micropsi-array-min.git
 ## Examples
 
 \>>>> from getmin import get_minimum
